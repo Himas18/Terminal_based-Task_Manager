@@ -1,0 +1,15 @@
+# Ignore build files
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code settings
+.vscode/
+
+# Backup and temp files
+*~
+*.tmp
+
+# Data generated at runtime
+data.txt
