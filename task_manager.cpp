@@ -228,7 +228,7 @@ void viewGroupUsers(int groupId) {
     }
 }
 
-// 🚦 Main menu loop
+// Main menu loop
 int main() {
     loadDataFromFile();
 
